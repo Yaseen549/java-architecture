@@ -20,7 +20,7 @@ Here, I will explain you the java architecture in simple steps.
 
 This diagram illustrates the internal working of a Java code, or precisely, Java Architecture!
 
-<img src="sources/1.png" width="350" height="350">
+<img src="sources/1.png" width="450" height="350">
 
 ## Components of Java Architecture
 
@@ -44,7 +44,7 @@ So, in a nutshell, JVM performs the following functions:
 
 Now, let me show you the JVM architecture. Here goes!
 
-<img src="sources/2.png" width="350" height="350">
+<img src="sources/2.png" width="450" height="350">
 
 ## Explanation:
 
@@ -77,7 +77,7 @@ The JRE software builds a runtime environment in which Java programs can be exec
 <b>Java Development Kit:</b>
 The Java Development Kit (JDK) is a software development environment used to develop Java applications and applets. It contains JRE and several development tools, an interpreter/loader (java), a compiler (javac), an archiver (jar), a documentation generator (javadoc) accompanied with another tool.
 
-<img src="sources/3.png" width="350" height="350">
+<img src="sources/3.png" width="450" height="350">
 
 The blue area shown in the diagram is JDK. Now, let me elaborate the development tools to you all.
 
@@ -96,7 +96,7 @@ Bytecode is a code of the JVM which is machine-understandable.
 Bytecode execution in Java proves it is a platform-independent language.
 Here, I will show you the steps involved in the process of java bytecode execution.
 
-<img src="sources/4.png" width="350" height="350">
+<img src="sources/4.png" width="450" height="350">
 
 Below is the explanation of the steps involved:
 
@@ -113,7 +113,7 @@ Moving ahead in Java architecture article, let us understand the concept of JIT 
 Just In Time compiler commonly known as JIT, is basically responsible for performance optimization of java based applications at run time. The performance of an application is dependent on a compiler.
 Here is a simple diagram showing you the internal process going on.
 
-<img src="sources/5.png" width="350" height="350">
+<img src="sources/5.png" width="450" height="350">
 
 The JIT compiler compiles the byte code of the method into machine code, compiling it “Just In Time” to run. When a method is compiled, the JVM calls the compiled code of that method directly.
 Let’s dive deeper:

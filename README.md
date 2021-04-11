@@ -125,3 +125,5 @@ With this, I have reached towards the end of this article on Java Architecture. 
 Now that you have understood basics of Java, check out the Java Training by Edureka, a trusted online learning company with a network of more than 250,000 satisfied learners spread across the globe. Edureka’s Java J2EE and SOA training and certification course is designed for students and professionals who want to be a Java Developer. The course is designed to give you a head start into Java programming and train you for both core and advanced Java concepts along with various Java frameworks like Hibernate & Spring.
 
 Got a question for us? Please mention it in the comments section of this “Java Architecture and its components” blog and we will get back to you as soon as possible.# java-architecture
+
+<b>Source: </b> <a href="https://www.edureka.co/blog/java-architecture/">Edureka.co</a>
